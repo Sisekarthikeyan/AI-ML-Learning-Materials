@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains the code and the dataset for machine learning algorithms.
+This repository contains the learning Materials for machine learning algorithms and Python.
